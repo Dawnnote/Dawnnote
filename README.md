@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00BFFF&height=300&section=header&text=Shoon%202&fontSize=90&animation=twinkling&fontColor=FFFFFF)
 
+<div align = "center">
+  
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dawnnote&label=Profile%20views&color=0e75b6&style=flat" alt="dawnnote" /> </p> -->
@@ -28,4 +30,6 @@
 <br>
 
 <!-- - 🌱 I’m currently learning **Python** -->
-- 📫 How to reach me **lshoon7454@gmail.com**
+ 📫 How to reach me **lshoon7454@gmail.com**
+
+  </div>
