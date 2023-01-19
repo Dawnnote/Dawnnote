@@ -18,7 +18,7 @@
 <br/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawnnote&show_icons=true&locale=en" alt="dawnnote" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawnnote&show_icons=true&locale=kr" alt="dawnnote" /></p>
   
 <br/>
 <br/>
