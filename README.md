@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00BFFF&height=300&section=header&text=Shoon2&fontSize=90&animation=twinkling&fontColor=FFFFFF)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDawnnote&count_bg=%23A0D9FE&title_bg=%2348D6FE&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Sanghoon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnnote&show_icons=true&theme=radical)
