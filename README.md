@@ -7,9 +7,6 @@
 <br/>
 
 ![Sanghoon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnnote&show_icons=true&theme=tokyonight)
-
-<br/>
- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanghoon7454)](https://solved.ac/sanghoon7454/)
 
 </div>
