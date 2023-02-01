@@ -24,13 +24,14 @@
 
 <br/>
 <br/>
-
-![Sanghoon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnnote&show_icons=true&theme=tokyonight)
+<br/>
+ 
+![Sanghoon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnnote&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanghoon7454)](https://solved.ac/sanghoon7454/)
  
 <br/>
 <br/>
- 
+
 <h2>:mailbox_with_mail: Contacts)</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:lshoon7454@gmail.com)
