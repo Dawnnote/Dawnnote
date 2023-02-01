@@ -14,7 +14,7 @@
 
 </div>
 
-# 💪Skills
+<!-- # 💪Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -32,4 +32,4 @@
  
 # :mailbox_with_mail: Contacts)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:lshoon7454@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:sanghoon7454@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:sanghoon7454@naver.com) -->
