@@ -21,7 +21,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=flat&logo=Streamlit&logoColor=white)
- 
+![Streamlit](https://img.shields.io/badge/Obsidian-483699.svg?&style=flat&logo=Obsidian&logoColor=white)
 
 <br/>
 <br/>
