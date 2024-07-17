@@ -40,7 +40,7 @@
 <br/>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Dawnnote}?pet-id=601281215374779288" width="1000" height="120"/>
+ <img src="https://render.gitanimals.org/lines/devxb?pet-id=23" width="25%" height="125"/><img src="https://render.gitanimals.org/lines/devxb?pet-id=1" width="25%" height="125"/>
 </a>
 
 
