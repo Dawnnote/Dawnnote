@@ -30,7 +30,7 @@
 ![Sanghoon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnnote&show_icons=true&theme=transparent)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lshoon7454)](https://solved.ac/lshoon7454/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lshoon7454&theme=cold) 
+
 <br/>
 <br/>
 <br/>
@@ -41,9 +41,4 @@
 
 
 
-<h2>:mailbox_with_mail: Contacts)</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:lshoon7454@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=round-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:sanghoon7454@naver.com)
-
-</div>
