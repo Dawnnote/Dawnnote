@@ -26,6 +26,11 @@
 <br/>
 <br/>
 <br/>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+
  
 ![Sanghoon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnnote&show_icons=true&theme=transparent)
 
